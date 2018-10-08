@@ -1,6 +1,6 @@
 ### redis-objects
 ---
 
-```
+```ruby
 ```
 
